@@ -7,7 +7,6 @@ This project enables **decentralized AI computation** using **Filecoin** for sto
 
 ---
 
-## 📁 Project Structure
 
 ## 📁 Project Structure
 
